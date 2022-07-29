@@ -13,13 +13,13 @@ app.use(router.urlencoded({ extended: true }));
 app.use('/api', api);
 app.use(router.static('public'));
 
-//GET route for the homepage
-app.get('/notes', (req, res) =>
-    res.sendFile(path.join(__dirname, './public/index.html')));
-
 //GET route for notes page
 app.get('/notes', (req, res) =>
     res.sendFile(path.join(__dirname, './public/notes.html')));    
+
+//GET route for the homepage
+app.get('*', (req, res) =>
+    res.sendFile(path.join(__dirname, './public/index.html')));
 
 //Initializing app at port 3001
 app.listen(PORT, () => {
