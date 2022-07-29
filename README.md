@@ -1,8 +1,8 @@
 
-# Node Note Taker Application
+# Express Note Taker Application
 
 ## Description 
-This application allows users to create notes & reminders and save them to a JSON data file using Express.js, Node & Npm modules
+This application allows users to create notes & reminders and save them to a JSON data file using Express.js, Node & npm modules
 
 ## User Story
 
@@ -60,5 +60,7 @@ Email Address: zoyasarow@gmail.com
       
 ## License Type
 No License 
-# Note-Taker
-# Express-Note-Taker
+
+![Screen Shot 2022-07-29 at 2 13 56 PM (2)](https://user-images.githubusercontent.com/101853202/181837191-8c65ac1e-f3b6-4770-81d9-248b78bf10ac.png)
+
+![Screen Shot 2022-07-29 at 2 13 40 PM 2](https://user-images.githubusercontent.com/101853202/181837213-bfa46871-1d6e-4ecf-a747-22c20708025f.png)
