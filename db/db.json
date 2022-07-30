@@ -1,1 +1,37 @@
-[{"title":"Testing","text":"Testing","id":"b4ed2e60-5b9a-42f7-9e86-8b6df2a77fde"},{"title":"Finish Note Taker","text":"Fix post route & push to github!","id":"58fde73a-1338-4c84-9753-77a9d16abee4"},{"title":"Work @ 6:00pm","text":"Work at WC foods!","id":"96103c39-d4b3-4236-a63f-a2d1975bddcd"},{"title":"Haircut w/ Ricki","text":"Getting the bowl cut touched up!","id":"7c455a9e-9d80-495b-a327-604d0486c15d"},{"title":"Bartend @ Blush","text":"Start at 8:00pm!","id":"4c6aade3-10c9-4725-8fb5-94579a0b4434"}]
+[
+    {
+        "title": "Testing",
+        "text": "Testing",
+        "id": "b4ed2e60-5b9a-42f7-9e86-8b6df2a77fde"
+    },
+    {
+        "title": "Finish Note Taker",
+        "text": "Fix post route & push to github!",
+        "id": "58fde73a-1338-4c84-9753-77a9d16abee4"
+    },
+    {
+        "title": "Work @ 6:00pm",
+        "text": "Work at WC foods!",
+        "id": "96103c39-d4b3-4236-a63f-a2d1975bddcd"
+    },
+    {
+        "title": "Haircut w/ Ricki",
+        "text": "Getting the bowl cut touched up!",
+        "id": "7c455a9e-9d80-495b-a327-604d0486c15d"
+    },
+    {
+        "title": "Bartend @ Blush",
+        "text": "Start at 8:00pm!",
+        "id": "4c6aade3-10c9-4725-8fb5-94579a0b4434"
+    },
+    {
+        "title": "Coding Bootcamp",
+        "text": "M/W/S 6:30pm and 10:00am",
+        "id": "aa7426ff-6198-43db-a760-5dac84b070e4"
+    },
+    {
+        "title": "Hang at the park",
+        "text": "Cheeseman!",
+        "id": "4708c123-a417-481e-9535-5fc3ba260db5"
+    }
+]
