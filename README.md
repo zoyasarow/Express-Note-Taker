@@ -1,6 +1,8 @@
 
 # Express Note Taker Application
 
+Heroku Deploy Link: https://zoya-note-taker.herokuapp.com/
+
 Link to Demo: https://watch.screencastify.com/v/qYrFQxrDVHrzxxdJNVwA
 
 ## Description 
