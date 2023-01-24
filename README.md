@@ -1,9 +1,9 @@
 
 # Express Note Taker Application
 
-Heroku Deploy Link: https://zoya-note-taker.herokuapp.com/
+[Heroku Deploy Link](https://zoya-note-taker.herokuapp.com/)
 
-Link to Demo: https://watch.screencastify.com/v/qYrFQxrDVHrzxxdJNVwA
+[Demo Video](https://watch.screencastify.com/v/qYrFQxrDVHrzxxdJNVwA)
 
 ## Description 
 This application allows users to create notes & reminders and save them to a JSON data file using Express.js, Node & npm modules
